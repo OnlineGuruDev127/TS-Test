@@ -13,6 +13,6 @@ I am Takeo Suzuki from Japan who applied to this React Native developer position
     cd ..
     react-native run-ios
 
-## This is videoscreenshat I have done
+## This is video screenshat I have done
   
   https://www.loom.com/share/6dc20ce80f504878b39b0fa6c46fca19
