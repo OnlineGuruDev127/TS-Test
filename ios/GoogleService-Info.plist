@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>109023156647-vumge3eeoqle7rkh696484gc670usd9j.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.109023156647-vumge3eeoqle7rkh696484gc670usd9j</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAordz68ZaIB63Sv0uhQigjbm_XUoRCzUo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>109023156647</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.LanguageLearningApp</string>
+	<key>PROJECT_ID</key>
+	<string>languagelearningapp-8ab51</string>
+	<key>STORAGE_BUCKET</key>
+	<string>languagelearningapp-8ab51.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:109023156647:ios:a03b90b4f98ee78ddfbe82</string>
+	<key>DATABASE_URL</key>
+	<string>https://languagelearningapp-8ab51-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
