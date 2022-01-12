@@ -1,7 +1,7 @@
 # Introduction
 
 Hi, How are you?
-I am Takeo Suzuki from Japan who applied to this React Native developer position and wrote test code with React Native and Typescript, Firebase upon requirement.
+I am Takeo Suzuki from Japan and I developed your test project with React Native and Typescript, Firebase upon requirement.
 
 ## How to build and run iOS app
 
