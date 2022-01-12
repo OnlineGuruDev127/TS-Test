@@ -3,10 +3,9 @@
 Hi, How are you?
 I am Takeo Suzuki from Japan who applied to this React Native developer position and wrote test code with React Native and Typescript, Firebase upon requirement.
 
-
 ## How to build and run app
-git clone https://github.com/nodahikaru/languagelearningapp_test.git
 
+    git clone https://github.com/OnlineGuruDev127/TS-Test.git
     cd languagelearningapp_test
     npm install
     cd ios
