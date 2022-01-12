@@ -3,7 +3,7 @@
 Hi, How are you?
 I am Takeo Suzuki from Japan who applied to this React Native developer position and wrote test code with React Native and Typescript, Firebase upon requirement.
 
-## How to build and run app
+## How to build and run iOS app
 
     git clone https://github.com/OnlineGuruDev127/TS-Test.git
     cd TS-Test
