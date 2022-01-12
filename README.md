@@ -6,7 +6,7 @@ I am Takeo Suzuki from Japan who applied to this React Native developer position
 ## How to build and run app
 
     git clone https://github.com/OnlineGuruDev127/TS-Test.git
-    cd languagelearningapp_test
+    cd TS-Test
     npm install
     cd ios
     pod install
